@@ -10,6 +10,6 @@ variable instance_type {
 
 variable aws_region {
         description = "region where we create resource"
-        default = "us-east-1"
+        default = ""
 
 }
